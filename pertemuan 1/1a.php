@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php 
-      for($i=1; $i<=200; $i++)
+      for($i=1; $i<=500; $i++)
           echo "$i<br>";
       ?>
   </body>
